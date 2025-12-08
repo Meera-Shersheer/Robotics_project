@@ -1,0 +1,9 @@
+numpy<2
+sympy
+PyQt6
+matplotlib
+scipy<2
+plotly
+roboticstoolbox-python
+spatialmath-python
+pandas
